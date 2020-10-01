@@ -1,7 +1,9 @@
-import os
+#eay to read code
+
+import os #module 
 import pickle
 from random import randint
-from tkinter import *
+from tkinter import *  #main module
 
 import time
 
